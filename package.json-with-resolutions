@@ -1,0 +1,21 @@
+{
+  "name": "jest-trials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Link.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^22.4.2",
+    "react": "^16.2.0",
+    "react-test-renderer": "^16.2.0"
+  },
+  "resolutions": {
+    "**/istanbul-lib-instrument": "1.9.2"
+  }
+}
